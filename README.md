@@ -90,6 +90,6 @@ To customize the website:
 This is a demonstration project created for educational purposes.
 
 ---
+Name : Ashutosh Mishra
+Deploy linK "https://ashutosh062008.github.io/mindcare-website/"
 
-**Created with ❤️ by Antigravity AI**  
-Inspired by BetterHelp.com
